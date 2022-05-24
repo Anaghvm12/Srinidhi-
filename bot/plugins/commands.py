@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Cʜᴀɴɴᴇʟ', url="https://t.me/+wnp1SdfDIHI1ODc1"
+                                    'Cʜᴀɴɴᴇʟ 📥', url="https://t.me/+wnp1SdfDIHI1ODc1"
                                 )
                         ]
                     ]
@@ -68,10 +68,10 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
-        InlineKeyboardButton('About 🚩', callback_data='about')
+        InlineKeyboardButton('Hᴏᴍᴇ 🏠', callback_data='start'),
+        InlineKeyboardButton('Aʙᴏᴜᴛ 😎', callback_data='about')
     ],[
-        InlineKeyboardButton('Close 🔐', callback_data='close')
+        InlineKeyboardButton('Cʟᴏsᴇ ⛔', callback_data='close')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -89,8 +89,8 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
-        InlineKeyboardButton('Close 🔐', callback_data='close')
+        InlineKeyboardButton('Hᴏᴍᴇ 🏠', callback_data='start'),
+        InlineKeyboardButton('Cʟᴏsᴇ ⛔'', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     
