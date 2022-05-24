@@ -46,13 +46,19 @@ For More Details Click Help Button Below..
 @CrazyBotsz
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-    
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+    ABOUT_TEXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ : Sʀɪɴɪᴅʜɪ.</b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>📝 ʟᴀɴɢᴜᴀɢᴇ :  <a href=https://www.python.org/>ᴘʏᴛʜᴏɴ</a></b>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ :  <a href=https://github.com/pyrogram/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a></b>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>📡 ʜᴏsᴛᴇᴅ ᴏɴ :  <a href=https://dashboard.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
+
+<b>👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ :  <a href=https://t.me/MagnusTG>ᴍᴀɢɴᴜs ᴛɢ 🇮🇳</a></b>
+
+<b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/hagayhwvwhtf>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</a></b>
+
+<b>👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :  <a href=https://t.me/Movies_Series_Requesting_Group>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a></b>
+
+<b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ :  <a href=https://t.me/+wnp1SdfDIHI1ODc1>ᴄʜᴀɴɴᴇʟ</a></b>
 """
